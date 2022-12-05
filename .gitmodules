@@ -1,0 +1,6 @@
+[submodule "LessonsPAK"]
+	path = LessonsPAK
+	url = https://github.com/d-pack/LessonsPAK.git
+[submodule "BruhDruhLabs"]
+	path = BruhDruhLabs
+	url = https://github.com/RubyRode/PAK-labs.git
